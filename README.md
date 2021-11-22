@@ -14,5 +14,6 @@ Hopefully we can try different approaches.
 - [Automatic Varroa Counting Bee Varroa Scanner (PDF Article)](https://www.researchgate.net/publication/328192722_Automatic_Varroa_Counting_Bee_Varroa_Scanner)
 - Unsupervised Learning of Image Segmentation Based on Differentiable Feature Clustering - [PDF Article](https://arxiv.org/pdf/2007.09990.pdf) and [code](https://github.com/kanezaki/pytorch-unsupervised-segmentation-tip/)
 
+## Github Projects
 
 One repo for counting bees can be found here https://github.com/matpalm/bnn
